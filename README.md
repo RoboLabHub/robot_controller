@@ -1,4 +1,4 @@
-If you robot uses steppers motors or smart servos (Dynamixel XL430-W250 or XL-320) then you can use cheap RAMPS 1.4 board or OpenCM_9.04 to control them from ROS.
+If your robot uses steppers motors or smart servos (Dynamixel XL430-W250 or XL-320) then you can use cheap RAMPS 1.4 board or OpenCM_9.04 to control them from ROS.
 
 Links to electronics parts:<br/>
 https://reprap.org/wiki/RAMPS_1.4<br/>
