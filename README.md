@@ -73,7 +73,7 @@ You can also control your robot by python script to make continues movement:<br/
 chmod +x ~/catkin_ws/src/robot_controller/scripts/example.py<br/>
 rosrun robot_controller example.py<br/>
 
-But if you want that you robot do more complex moves, then you should use the MoveIt package.<br/>
+But if you want that your robot do more complex moves, then you should use the MoveIt package.<br/>
 Check this link for more info:<br/>
 https://github.com/RoboLabHub/Niryo/tree/master/niryo_one_driver<br/>
 
