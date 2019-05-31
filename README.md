@@ -1,5 +1,3 @@
-How to control your 6DOF robot arm with RAMPS 1.4/OpenCM_9.04 and ROS
-
 If you robot uses steppers motors or smart servos (Dynamixel XL430-W250 or XL-320) then you can use cheap RAMPS 1.4 board or OpenCM_9.04 to control them from ROS.
 
 Links to electronics parts:
