@@ -78,5 +78,5 @@ Check this link for more info:<br/>
 https://github.com/RoboLabHub/Niryo/tree/master/niryo_one_driver<br/>
 
 Related video:<br/>
-
+https://www.youtube.com/watch?v=c0k6x_Q5rNU<br/>
 
